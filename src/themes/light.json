@@ -1,0 +1,9 @@
+{
+    "navbar_background": "#ffffff",
+    "navbar_title": "#000000",
+    "navbar_links": "#03befc",
+    "background_color": "#e8e8e8",
+    "navbar_links_hover": "#0222ed",
+    "addImg": "src/res/add_btn_light.png",
+    "addImg_hover": "src/res/add_btn_light_hover.png"
+}

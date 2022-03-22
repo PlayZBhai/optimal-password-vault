@@ -1,0 +1,10 @@
+{
+    "navbar_background": "custom_hex_color_value",
+    "navbar_title": "custom_hex_color_value",
+    "navbar_links": "custom_hex_color_value",
+    "navbar_links_hover": "custom_hex_color_value",
+    "background_color": "custom_hex_color_value",
+    "border":"custom_hex_color_value",
+    "addImg": "some_image_path",
+    "addImg_hover": "some_image_path"
+}

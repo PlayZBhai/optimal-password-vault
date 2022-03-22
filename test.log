@@ -1,0 +1,8 @@
+#create a string with html tags
+about_text = """
+<h1>Optimal Password Holder</h1>
+<p>Optimal is a password holder that uses your system to hold your password secured. It is not connected to any web server, so it is all in your pc saving your critical hard passwords with a good GUI to access them all. Your passwords are encrypted so if someone tries to steal the database it will be stored perfectly without, losses. Optimal can also alert when detected a security breach in your pc trough a malware</p>
+<p>Optimal is a free open-source project. You can ask for help in the discord or request a chance to contribute. As optimal is a secured password holder, code cannot be shared with anyone</p>
+<a href="https://github.com/PlayZBhai/optimal-password-vault/blob/main/README.md">Visit Github for more information</a>
+<p>© 2022 PlayZBhai</p>
+"""
